@@ -1,0 +1,6 @@
+Activity 1 - Development Environment Setup
+VS Code was used as the code editor.
+Git was used for version control.
+GitHub was used to store the project online.
+A C Hello World program was created and tested.
+The project files were organized in the Activity-1-Dev-Environment-Setup folder.
