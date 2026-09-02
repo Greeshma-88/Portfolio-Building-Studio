@@ -2,3 +2,6 @@ Hi, I'm Greeshma V, a Computer Science Engineering student. I'm currently buildi
 Learning Python.
 Interested in Cloud Computing.
 Goal: Contribute to open source.
+
+## Projects
+Built a Hello World C program and pushed it to GitHub as part of this course.
