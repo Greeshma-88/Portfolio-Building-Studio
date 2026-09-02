@@ -1,0 +1,6 @@
+Comparison of C, Java, Python, and HTML
+
+C: Compiled directly to machine code using GCC. Fast but needs manual memory management.
+Java: Compiled to bytecode, runs on the JVM. Platform-independent.
+Python: Interpreted line by line. Easiest syntax, slower execution.
+HTML: Markup language, not compiled/interpreted like the others — it's rendered by a browser.
